@@ -1,5 +1,6 @@
 # BaSynth
-A Minimoog Simulating Synth
+
+A Minimoog simulating synth VST plugin using JUCE framework.
 
 ## Literature
 
